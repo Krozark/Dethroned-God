@@ -1,0 +1,6 @@
+To compile this project, you may need:
+* Qt
+* SFML
+* Box2D
+
+This should compile fine with cmake and GNU make.
