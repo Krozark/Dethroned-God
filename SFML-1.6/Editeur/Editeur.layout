@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Anim.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="104" topLine="0" />
+	</File>
+	<File name="Animated.cpp" open="1" top="1" tabpos="6">
+		<Cursor position="1159" topLine="47" />
+	</File>
+	<File name="ClasseRemake.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="1166" topLine="0" />
+	</File>
+	<File name="Editeur_Quette.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="6088" topLine="187" />
+	</File>
+	<File name="Editeur_Quette.h" open="0" top="0" tabpos="3">
+		<Cursor position="3624" topLine="0" />
+	</File>
+	<File name="Editeur_skill.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="1545" topLine="53" />
+	</File>
+	<File name="Editeur_skill.hpp" open="0" top="0" tabpos="4">
+		<Cursor position="2334" topLine="0" />
+	</File>
+	<File name="Frame.hpp" open="0" top="0" tabpos="6">
+		<Cursor position="218" topLine="1" />
+	</File>
+	<File name="Object.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="1463" topLine="61" />
+	</File>
+	<File name="Object.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="872" topLine="0" />
+	</File>
+	<File name="QSFMLCanvas.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2022" topLine="74" />
+	</File>
+	<File name="QSFMLCanvas.hpp" open="0" top="0" tabpos="8">
+		<Cursor position="495" topLine="45" />
+	</File>
+	<File name="Taille_fenetre.hpp" open="0" top="0" tabpos="5">
+		<Cursor position="119" topLine="0" />
+	</File>
+	<File name="Text_Encadre.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="223" topLine="0" />
+	</File>
+	<File name="Text_Encadre.hpp" open="0" top="0" tabpos="4">
+		<Cursor position="1712" topLine="0" />
+	</File>
+	<File name="afficheur.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="161" topLine="51" />
+	</File>
+	<File name="afficheur.hpp" open="0" top="0" tabpos="4">
+		<Cursor position="4853" topLine="67" />
+	</File>
+	<File name="afficheur_options.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="12116" topLine="377" />
+	</File>
+	<File name="afficheur_options.hpp" open="0" top="0" tabpos="1">
+		<Cursor position="2558" topLine="25" />
+	</File>
+	<File name="afficheur_options_perso.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1276" topLine="16" />
+	</File>
+	<File name="afficheur_options_perso.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="540" topLine="31" />
+	</File>
+	<File name="afficheur_sprite.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="127" topLine="0" />
+	</File>
+	<File name="afficheur_sprite.hpp" open="0" top="0" tabpos="6">
+		<Cursor position="250" topLine="0" />
+	</File>
+	<File name="editeur_MAP.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="2486" topLine="57" />
+	</File>
+	<File name="editeur_MAP.hpp" open="0" top="0" tabpos="5">
+		<Cursor position="2443" topLine="0" />
+	</File>
+	<File name="editeur_fenettre.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="814" topLine="6" />
+	</File>
+	<File name="editeur_fenettre.hpp" open="0" top="0" tabpos="6">
+		<Cursor position="4133" topLine="57" />
+	</File>
+	<File name="lister.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="305" topLine="12" />
+	</File>
+	<File name="lister.hpp" open="1" top="0" tabpos="5">
+		<Cursor position="98" topLine="0" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="121" topLine="0" />
+	</File>
+	<File name="map.hpp" open="0" top="0" tabpos="1">
+		<Cursor position="519" topLine="6" />
+	</File>
+	<File name="map_options.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="4595" topLine="153" />
+	</File>
+	<File name="map_options.hpp" open="0" top="0" tabpos="4">
+		<Cursor position="489" topLine="16" />
+	</File>
+	<File name="sons_option.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="3989" topLine="133" />
+	</File>
+	<File name="sons_option.hpp" open="0" top="0" tabpos="3">
+		<Cursor position="662" topLine="9" />
+	</File>
+</CodeBlocks_layout_file>

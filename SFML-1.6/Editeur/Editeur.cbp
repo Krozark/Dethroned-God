@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Editeur" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Editeur" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Editeur" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="/home/maxime/qtsdk-2010.02/qt/include" />
+			<Add directory="/home/maxime/qtsdk-2010.02/qt/include/QtGui" />
+		</Compiler>
+		<Linker>
+			<Add library="QtCore" />
+			<Add library="QtGui" />
+			<Add directory="/home/maxime/qtsdk-2010.02/qt/lib" />
+		</Linker>
+		<Unit filename="Anim.cpp" />
+		<Unit filename="Anim.hpp" />
+		<Unit filename="Animated.cpp" />
+		<Unit filename="Animated.hpp" />
+		<Unit filename="ClasseRemake.hpp" />
+		<Unit filename="Editeur_Quette.cpp" />
+		<Unit filename="Editeur_Quette.h" />
+		<Unit filename="Editeur_skill.cpp" />
+		<Unit filename="Editeur_skill.hpp" />
+		<Unit filename="Frame.cpp" />
+		<Unit filename="Frame.hpp" />
+		<Unit filename="Object.cpp" />
+		<Unit filename="Object.hpp" />
+		<Unit filename="QSFMLCanvas.cpp" />
+		<Unit filename="QSFMLCanvas.hpp" />
+		<Unit filename="Taille_fenetre.hpp" />
+		<Unit filename="Text_Encadre.cpp" />
+		<Unit filename="Text_Encadre.hpp" />
+		<Unit filename="afficheur.cpp" />
+		<Unit filename="afficheur.hpp" />
+		<Unit filename="afficheur_options.cpp" />
+		<Unit filename="afficheur_options.hpp" />
+		<Unit filename="afficheur_options_perso.cpp" />
+		<Unit filename="afficheur_options_perso.hpp" />
+		<Unit filename="afficheur_sprite.cpp" />
+		<Unit filename="afficheur_sprite.hpp" />
+		<Unit filename="editeur_MAP.cpp" />
+		<Unit filename="editeur_MAP.hpp" />
+		<Unit filename="editeur_fenettre.cpp" />
+		<Unit filename="editeur_fenettre.hpp" />
+		<Unit filename="lister.cpp" />
+		<Unit filename="lister.hpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="map.cpp" />
+		<Unit filename="map.hpp" />
+		<Unit filename="map_options.cpp" />
+		<Unit filename="map_options.hpp" />
+		<Unit filename="sons_option.cpp" />
+		<Unit filename="sons_option.hpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
