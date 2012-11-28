@@ -1,0 +1,509 @@
+# depslib dependency file v1.0
+1303356789 source:/home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /AffichageTexte.cpp
+	"AffichageTexte.hpp"
+
+1297718666 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /AffichageTexte.hpp
+	<iostream>
+	<stdlib.h>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	"Animated.hpp"
+	"Sons.hpp"
+
+1289194182 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Animated.hpp
+	"Anim.hpp"
+
+1288563798 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Anim.hpp
+	<vector>
+	"Frame.hpp"
+
+1288563798 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Frame.hpp
+	<SFML/Graphics.hpp>
+
+1295323766 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Sons.hpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/Audio.hpp>
+	"Taille_fenetre.hpp"
+
+1301678583 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Taille_fenetre.hpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/Audio.hpp>
+	"data/skills_enum.hpp"
+
+1300368726 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /data/skills_enum.hpp
+
+1288563790 source:/home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Anim.cpp
+	"Anim.hpp"
+
+1303356123 source:/home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /AnimRecharge.cpp
+	"AnimRecharge.hpp"
+
+1297626454 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /AnimRecharge.hpp
+	<iostream>
+	"Animated.hpp"
+	"Taille_fenetre.hpp"
+
+1303355343 source:/home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Animated.cpp
+	"Animated.hpp"
+
+1303356123 source:/home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Entite.cpp
+	"Entite.hpp"
+	<string>
+	<iostream>
+
+1298950286 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Entite.hpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	"Animated.hpp"
+	"Taille_fenetre.hpp"
+	"Globale_entite_game.h"
+	"Sons.hpp"
+	"PausableClock.h"
+
+1297053706 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Globale_entite_game.h
+
+1288563804 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /PausableClock.h
+	<SFML/System.hpp>
+
+1288563790 source:/home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Frame.cpp
+	"Frame.hpp"
+
+1303356123 source:/home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Game.cpp
+	"Game.hpp"
+	"stdio.h"
+	<string.h>
+	<time.h>
+
+1301845517 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Game.hpp
+	"Taille_fenetre.hpp"
+	"Pause.hpp"
+	"Animated.hpp"
+	"Hero.hpp"
+	"Pnj.hpp"
+	"Objet.hpp"
+	"Pause.hpp"
+	"Parchemin.hpp"
+	"AnimRecharge.hpp"
+	"Sons.hpp"
+	"MenuSauvegarde.hpp"
+	"SaveStruct.hpp"
+	"Floor.hpp"
+	"AffichageTexte.hpp"
+	"Globale_entite_game.h"
+	"Global_taille_fenetre.hpp"
+	"marchand.hpp"
+	"SoundSpatialization.h"
+
+1301616716 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Pause.hpp
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<stdio.h>
+	"Taille_fenetre.hpp"
+	"Sons.hpp"
+	"Global_taille_fenetre.hpp"
+	<SFML/Network.hpp>
+
+1301616319 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Global_taille_fenetre.hpp
+
+1301848302 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Hero.hpp
+	<math.h>
+	<list>
+	"Objet.hpp"
+	"Pnj.hpp"
+	"ReverseClock.h"
+	"AnimRecharge.hpp"
+	"SoundSpatialization.h"
+	"Global_taille_fenetre.hpp"
+
+1298854852 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Objet.hpp
+	"Entite_non_jouable.hpp"
+
+1298950292 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Entite_non_jouable.hpp
+	"Entite.hpp"
+
+1301441789 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Pnj.hpp
+	"Entite_non_jouable.hpp"
+	"ReverseClock.h"
+
+1291614366 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /ReverseClock.h
+	<SFML/System.hpp>
+
+1299011138 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /SoundSpatialization.h
+	<SFML/Audio.hpp>
+
+1298349518 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Parchemin.hpp
+	"Objet.hpp"
+	"Sons.hpp"
+	"Global_taille_fenetre.hpp"
+	<sstream>
+	<stdio.h>
+
+1301353888 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /MenuSauvegarde.hpp
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	"Taille_fenetre.hpp"
+	"Sons.hpp"
+	"SaveStruct.hpp"
+	"Global_taille_fenetre.hpp"
+
+1298957528 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /SaveStruct.hpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/Audio.hpp>
+	"Pnj.hpp"
+	"Objet.hpp"
+
+1294363706 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Floor.hpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Taille_fenetre.hpp"
+
+1298340530 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /marchand.hpp
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	"Taille_fenetre.hpp"
+	"Global_taille_fenetre.hpp"
+	"Hero.hpp"
+
+1303358025 source:/home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Menu.cpp
+	"Menu.hpp"
+
+1300164034 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Menu.hpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	<sstream>
+	"Animated.hpp"
+	"Taille_fenetre.hpp"
+	"Objet.hpp"
+	"Sons.hpp"
+	"Global_taille_fenetre.hpp"
+
+1301362632 source:/home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /MenuSauvegarde.cpp
+	"MenuSauvegarde.hpp"
+
+1303356123 source:/home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Objet.cpp
+	"Objet.hpp"
+
+1303356147 source:/home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Parchemin.cpp
+	"Parchemin.hpp"
+
+1289854186 source:/home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /PausableClock.cpp
+	"PausableClock.h"
+
+1297139082 source:/home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /ReverseClock.cpp
+	"ReverseClock.h"
+
+1299011680 source:/home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /SoundSpatialization.cpp
+	<math.h>
+	"SoundSpatialization.h"
+
+1298579588 source:/home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"WindowGame.hpp"
+	"Taille_fenetre.hpp"
+	"Global_taille_fenetre.hpp"
+
+1301616332 /home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /WindowGame.hpp
+	<iostream>
+	"Taille_fenetre.hpp"
+	"Game.hpp"
+	"Menu.hpp"
+	"MenuSauvegarde.hpp"
+	"PausableClock.h"
+	"Sons.hpp"
+
+1298502902 source:/home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /marchand.cpp
+	"marchand.hpp"
+
+1303356123 source:/home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Hero.cpp
+	"Hero.hpp"
+	<sstream>
+	<math.h>
+
+1303356124 source:/home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Pause.cpp
+	"Pause.hpp"
+	"string.h"
+
+1303355343 source:/home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Pnj.cpp
+	"Pnj.hpp"
+	<sstream>
+
+1303356124 source:/home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /Sons.cpp
+	"Sons.hpp"
+
+1303356124 source:/home/maxime/Bureau/Projet_2/Dethroned God/Dethroned_god/Dethroned God v1.4 /WindowGame.cpp
+	"WindowGame.hpp"
+	<iostream>
+
+1303356788 source:d:\programation\sfml\dethroned god\dethroned god v1.4\affichagetexte.cpp
+	"AffichageTexte.hpp"
+
+1297722266 d:\programation\sfml\dethroned god\dethroned god v1.4\affichagetexte.hpp
+	<iostream>
+	<stdlib.h>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	"Animated.hpp"
+	"Sons.hpp"
+
+1289197782 d:\programation\sfml\dethroned god\dethroned god v1.4\animated.hpp
+	"Anim.hpp"
+
+1288567398 d:\programation\sfml\dethroned god\dethroned god v1.4\anim.hpp
+	<vector>
+	"Frame.hpp"
+
+1288567398 d:\programation\sfml\dethroned god\dethroned god v1.4\frame.hpp
+	<SFML/Graphics.hpp>
+
+1295327366 d:\programation\sfml\dethroned god\dethroned god v1.4\sons.hpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/Audio.hpp>
+	"Taille_fenetre.hpp"
+
+1301682182 d:\programation\sfml\dethroned god\dethroned god v1.4\taille_fenetre.hpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/Audio.hpp>
+	"data/skills_enum.hpp"
+
+1300372326 d:\programation\sfml\dethroned god\dethroned god v1.4\data\skills_enum.hpp
+
+1288567390 source:d:\programation\sfml\dethroned god\dethroned god v1.4\anim.cpp
+	"Anim.hpp"
+
+1303356122 source:d:\programation\sfml\dethroned god\dethroned god v1.4\animrecharge.cpp
+	"AnimRecharge.hpp"
+
+1297630054 d:\programation\sfml\dethroned god\dethroned god v1.4\animrecharge.hpp
+	<iostream>
+	"Animated.hpp"
+	"Taille_fenetre.hpp"
+
+1303355342 source:d:\programation\sfml\dethroned god\dethroned god v1.4\animated.cpp
+	"Animated.hpp"
+
+1303356122 source:d:\programation\sfml\dethroned god\dethroned god v1.4\entite.cpp
+	"Entite.hpp"
+	<string>
+	<iostream>
+
+1298953886 d:\programation\sfml\dethroned god\dethroned god v1.4\entite.hpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	"Animated.hpp"
+	"Taille_fenetre.hpp"
+	"Globale_entite_game.h"
+	"Sons.hpp"
+	"PausableClock.h"
+
+1297057306 d:\programation\sfml\dethroned god\dethroned god v1.4\globale_entite_game.h
+
+1288567404 d:\programation\sfml\dethroned god\dethroned god v1.4\pausableclock.h
+	<SFML/System.hpp>
+
+1288567390 source:d:\programation\sfml\dethroned god\dethroned god v1.4\frame.cpp
+	"Frame.hpp"
+
+1303356122 source:d:\programation\sfml\dethroned god\dethroned god v1.4\game.cpp
+	"Game.hpp"
+	"stdio.h"
+	<string.h>
+	<time.h>
+
+1301845516 d:\programation\sfml\dethroned god\dethroned god v1.4\game.hpp
+	"Taille_fenetre.hpp"
+	"Pause.hpp"
+	"Animated.hpp"
+	"Hero.hpp"
+	"Pnj.hpp"
+	"Objet.hpp"
+	"Pause.hpp"
+	"Parchemin.hpp"
+	"AnimRecharge.hpp"
+	"Sons.hpp"
+	"MenuSauvegarde.hpp"
+	"SaveStruct.hpp"
+	"Floor.hpp"
+	"AffichageTexte.hpp"
+	"Globale_entite_game.h"
+	"Global_taille_fenetre.hpp"
+	"marchand.hpp"
+	"SoundSpatialization.h"
+
+1301620316 d:\programation\sfml\dethroned god\dethroned god v1.4\pause.hpp
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<stdio.h>
+	"Taille_fenetre.hpp"
+	"Sons.hpp"
+	"Global_taille_fenetre.hpp"
+	<SFML/Network.hpp>
+
+1301619918 d:\programation\sfml\dethroned god\dethroned god v1.4\global_taille_fenetre.hpp
+
+1301848302 d:\programation\sfml\dethroned god\dethroned god v1.4\hero.hpp
+	<math.h>
+	<list>
+	"Objet.hpp"
+	"Pnj.hpp"
+	"ReverseClock.h"
+	"AnimRecharge.hpp"
+	"SoundSpatialization.h"
+	"Global_taille_fenetre.hpp"
+
+1298858452 d:\programation\sfml\dethroned god\dethroned god v1.4\objet.hpp
+	"Entite_non_jouable.hpp"
+
+1298953892 d:\programation\sfml\dethroned god\dethroned god v1.4\entite_non_jouable.hpp
+	"Entite.hpp"
+
+1301445388 d:\programation\sfml\dethroned god\dethroned god v1.4\pnj.hpp
+	"Entite_non_jouable.hpp"
+	"ReverseClock.h"
+
+1291617966 d:\programation\sfml\dethroned god\dethroned god v1.4\reverseclock.h
+	<SFML/System.hpp>
+
+1299014738 d:\programation\sfml\dethroned god\dethroned god v1.4\soundspatialization.h
+	<SFML/Audio.hpp>
+
+1298353118 d:\programation\sfml\dethroned god\dethroned god v1.4\parchemin.hpp
+	"Objet.hpp"
+	"Sons.hpp"
+	"Global_taille_fenetre.hpp"
+	<sstream>
+	<stdio.h>
+
+1301357488 d:\programation\sfml\dethroned god\dethroned god v1.4\menusauvegarde.hpp
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	"Taille_fenetre.hpp"
+	"Sons.hpp"
+	"SaveStruct.hpp"
+	"Global_taille_fenetre.hpp"
+
+1298961128 d:\programation\sfml\dethroned god\dethroned god v1.4\savestruct.hpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/Audio.hpp>
+	"Pnj.hpp"
+	"Objet.hpp"
+
+1294367306 d:\programation\sfml\dethroned god\dethroned god v1.4\floor.hpp
+	<SFML/Graphics.hpp>
+	<iostream>
+	"Taille_fenetre.hpp"
+
+1298344130 d:\programation\sfml\dethroned god\dethroned god v1.4\marchand.hpp
+	<iostream>
+	<sstream>
+	<stdlib.h>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	"Taille_fenetre.hpp"
+	"Global_taille_fenetre.hpp"
+	"Hero.hpp"
+
+1303356122 source:d:\programation\sfml\dethroned god\dethroned god v1.4\hero.cpp
+	"Hero.hpp"
+	<sstream>
+	<math.h>
+
+1303358024 source:d:\programation\sfml\dethroned god\dethroned god v1.4\menu.cpp
+	"Menu.hpp"
+
+1300167634 d:\programation\sfml\dethroned god\dethroned god v1.4\menu.hpp
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/Audio.hpp>
+	<iostream>
+	<sstream>
+	"Animated.hpp"
+	"Taille_fenetre.hpp"
+	"Objet.hpp"
+	"Sons.hpp"
+	"Global_taille_fenetre.hpp"
+
+1301366232 source:d:\programation\sfml\dethroned god\dethroned god v1.4\menusauvegarde.cpp
+	"MenuSauvegarde.hpp"
+
+1303356122 source:d:\programation\sfml\dethroned god\dethroned god v1.4\objet.cpp
+	"Objet.hpp"
+
+1303356146 source:d:\programation\sfml\dethroned god\dethroned god v1.4\parchemin.cpp
+	"Parchemin.hpp"
+
+1289857786 source:d:\programation\sfml\dethroned god\dethroned god v1.4\pausableclock.cpp
+	"PausableClock.h"
+
+1303356124 source:d:\programation\sfml\dethroned god\dethroned god v1.4\pause.cpp
+	"Pause.hpp"
+	"string.h"
+
+1303355342 source:d:\programation\sfml\dethroned god\dethroned god v1.4\pnj.cpp
+	"Pnj.hpp"
+	<sstream>
+
+1297142682 source:d:\programation\sfml\dethroned god\dethroned god v1.4\reverseclock.cpp
+	"ReverseClock.h"
+
+1303356124 source:d:\programation\sfml\dethroned god\dethroned god v1.4\sons.cpp
+	"Sons.hpp"
+
+1299015280 source:d:\programation\sfml\dethroned god\dethroned god v1.4\soundspatialization.cpp
+	<math.h>
+	"SoundSpatialization.h"
+
+1303356124 source:d:\programation\sfml\dethroned god\dethroned god v1.4\windowgame.cpp
+	"WindowGame.hpp"
+	<iostream>
+
+1301619932 d:\programation\sfml\dethroned god\dethroned god v1.4\windowgame.hpp
+	<iostream>
+	"Taille_fenetre.hpp"
+	"Game.hpp"
+	"Menu.hpp"
+	"MenuSauvegarde.hpp"
+	"PausableClock.h"
+	"Sons.hpp"
+
+1298583188 source:d:\programation\sfml\dethroned god\dethroned god v1.4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"WindowGame.hpp"
+	"Taille_fenetre.hpp"
+	"Global_taille_fenetre.hpp"
+
+1298506502 source:d:\programation\sfml\dethroned god\dethroned god v1.4\marchand.cpp
+	"marchand.hpp"
+

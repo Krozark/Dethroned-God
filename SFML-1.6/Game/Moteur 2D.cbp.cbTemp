@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Dethroned God" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\Moteur SFML v1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-fexpensive-optimizations" />
+					<Add option="-Os" />
+					<Add option="-O3" />
+					<Add option="-O2" />
+					<Add option="-O1" />
+					<Add option="-O" />
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\Moteur SFML v1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Os" />
+			<Add option="-O3" />
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="AffichageTexte.cpp" />
+		<Unit filename="AffichageTexte.hpp" />
+		<Unit filename="Anim.cpp" />
+		<Unit filename="Anim.hpp" />
+		<Unit filename="AnimRecharge.cpp" />
+		<Unit filename="AnimRecharge.hpp" />
+		<Unit filename="Animated.cpp" />
+		<Unit filename="Animated.hpp" />
+		<Unit filename="Entite.cpp" />
+		<Unit filename="Entite.hpp" />
+		<Unit filename="Entite_non_jouable.hpp" />
+		<Unit filename="Frame.cpp" />
+		<Unit filename="Frame.hpp" />
+		<Unit filename="Game.cpp" />
+		<Unit filename="Game.hpp" />
+		<Unit filename="Global_taille_fenetre.hpp" />
+		<Unit filename="Globale_entite_game.h" />
+		<Unit filename="Hero.cpp" />
+		<Unit filename="Hero.hpp" />
+		<Unit filename="Menu.cpp" />
+		<Unit filename="Menu.hpp" />
+		<Unit filename="MenuSauvegarde.cpp" />
+		<Unit filename="MenuSauvegarde.hpp" />
+		<Unit filename="Objet.cpp" />
+		<Unit filename="Objet.hpp" />
+		<Unit filename="Parchemin.cpp" />
+		<Unit filename="Parchemin.hpp" />
+		<Unit filename="PausableClock.cpp" />
+		<Unit filename="PausableClock.h" />
+		<Unit filename="Pause.cpp" />
+		<Unit filename="Pause.hpp" />
+		<Unit filename="Pnj.cpp" />
+		<Unit filename="Pnj.hpp" />
+		<Unit filename="ReverseClock.cpp" />
+		<Unit filename="ReverseClock.h" />
+		<Unit filename="SaveStruct.hpp" />
+		<Unit filename="Sons.cpp" />
+		<Unit filename="Sons.hpp" />
+		<Unit filename="SoundSpatialization.cpp" />
+		<Unit filename="SoundSpatialization.h" />
+		<Unit filename="Taille_fenetre.hpp" />
+		<Unit filename="WindowGame.cpp" />
+		<Unit filename="WindowGame.hpp" />
+		<Unit filename="data\skills_enum.hpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="marchand.cpp" />
+		<Unit filename="marchand.hpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

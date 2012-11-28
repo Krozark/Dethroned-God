@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="AffichageTexte.cpp" open="1" top="0" tabpos="9">
+		<Cursor position="3506" topLine="96" />
+	</File>
+	<File name="AffichageTexte.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="1661" topLine="55" />
+	</File>
+	<File name="Anim.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="36" topLine="0" />
+	</File>
+	<File name="AnimRecharge.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="647" topLine="6" />
+	</File>
+	<File name="Animated.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="2987" topLine="143" />
+	</File>
+	<File name="Entite.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="5341" topLine="155" />
+	</File>
+	<File name="Game.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="50670" topLine="1430" />
+	</File>
+	<File name="Game.hpp" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="142" />
+	</File>
+	<File name="Hero.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="42216" topLine="1380" />
+	</File>
+	<File name="Hero.hpp" open="1" top="0" tabpos="7">
+		<Cursor position="2451" topLine="32" />
+	</File>
+	<File name="Menu.cpp" open="1" top="1" tabpos="10">
+		<Cursor position="2777" topLine="67" />
+	</File>
+	<File name="MenuSauvegarde.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1369" topLine="32" />
+	</File>
+	<File name="Objet.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="2922" topLine="67" />
+	</File>
+	<File name="Parchemin.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="5608" topLine="180" />
+	</File>
+	<File name="Pause.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="64099" topLine="1935" />
+	</File>
+	<File name="Pnj.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="15736" topLine="501" />
+	</File>
+	<File name="Pnj.hpp" open="1" top="0" tabpos="5">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Sons.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="2048" topLine="45" />
+	</File>
+	<File name="WindowGame.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="6168" topLine="222" />
+	</File>
+	<File name="marchand.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="4979" topLine="152" />
+	</File>
+</CodeBlocks_layout_file>
